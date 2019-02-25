@@ -1,0 +1,2 @@
+version1 : version simple prend les touches et c'est tout on peu les decoder apres.
+version 1.1 : version qui prend les touches qui sont dater + essaie avec les screen qui ne marche pas + execute ordre et les notes
